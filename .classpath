@@ -4,12 +4,6 @@
 	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/jsf-api.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/jsf-impl.jar"/>
-	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/appengine-java-sdk-1.6.6"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
-		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/objectify-3.1.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/objectify-appengine-spring-1.1.1.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/org.springframework.web-3.1.1.RELEASE.jar"/>
@@ -22,9 +16,6 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/org.springframework.asm-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/org.springframework.expression-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/primefaces-3.3.1.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-1.0-sdk-1.6.6.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-labs-1.6.6.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-jsr107cache-1.6.6.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-core-1.1.5.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-jpa-1.1.5.jar"/>
@@ -38,5 +29,10 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-mobile-device-1.0.0.RELEASE.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/primefaces-mobile-0.9.3.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/facestrace-1.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
